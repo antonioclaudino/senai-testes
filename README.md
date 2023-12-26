@@ -1,3 +1,5 @@
 meu primeito comiit
-arquivo exemplo      
+arquivo exemplo  
+
+lembrei co comando: git status    
 
